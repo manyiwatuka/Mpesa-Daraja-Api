@@ -1,3 +1,3 @@
 <?php
 
-echo "Daraja API by Manyi Wa Watuka";
+echo "DARAJA API BY UMESKIA SOFTWARES";
